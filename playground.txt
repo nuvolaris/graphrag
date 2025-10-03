@@ -1,0 +1,17 @@
+alias gr="uv run graphrag"
+gr query -m global -r data/christmas -q "List the characters of the novel"
+gr query -m global -r data/laow -q "What is OpenWhisk?"
+gr query -m global -r data/laow -q "How do I implement web actions in Python?"
+
+gr query -m global -r data/laow -q "List the parameters and the responses of a web action."
+gr query -m local -r data/laow -q "List the parameters and the responses of a web action."
+gr query -m local -r data/laow -q "Can you list which keys are available in the args of a web action related to the http request?"
+gr query -m local -r data/laow -q "Which keys starting with '__ow'  are available in the args of a web action?"
+gr query -m global -r data/laow -q "Which env vars starting with '__OW'  are available for actions?"
+
+
+gr index -r data/codex -v
+
+gr query -r data/codex -m local -q "come si promulgano le leggi ecclesiastiche" 
+
+gr query -r data/codex -m local -q "obblighi dei forestieri" 

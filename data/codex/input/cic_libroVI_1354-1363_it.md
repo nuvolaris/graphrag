@@ -1,0 +1,75 @@
+---
+original_path: ita/documents/cic_libroVI_1354-1363_it.html
+---
+
+# CODICE DI DIRITTO CANONICO
+
+## LIBRO VI
+
+### LE SANZIONI PENALI NELLA CHIESA
+
+#### PARTE I
+
+##### DELITTI E PENE IN GENERE
+
+### TITOLO VI
+
+**LA REMISSIONE DELLE PENE E LA PRESCRIZIONE DELLE AZIONI**  
+*(Cann. 1354 – 1363)*
+
+**Can. 1354 -** § 1. Oltre a quelli che sono enumerati nei cann. 1355-1356, tutti coloro che possono dispensare da una legge munita di una pena, o liberare da un precetto che commina una pena, possono anche rimettere quella pena.
+
+§ 2. La legge o il precetto che costituiscono una pena possono inoltre dare anche ad altri potestà di rimettere la pena.
+
+§ 3. Se la Sede Apostolica ha riservato a sé o ad altri la remissione della pena, la riserva deve essere interpretata in senso stretto.
+
+**Can. 1355 -** § 1. Possono rimettere la pena stabilita dalla legge, che sia una pena ferendae sententiae inflitta o latae sententiae dichiarata e purché non sia riservata alla Sede Apostolica:  
+1º l’Ordinario che ha promosso il giudizio per infliggere o dichiarare la pena, oppure l’ha inflitta o dichiarata per decreto personalmente o tramite altri;  
+2º l’Ordinario del luogo in cui si trova il delinquente, dopo aver però consultato l’Ordinario di cui nel n. 1, a meno che per circostanze straordinarie ciò sia impossibile.
+
+§ 2. Possono rimettere la pena stabilita dalla legge, che sia una pena latae sententiae non ancora dichiarata e purché non sia riservata alla Sede Apostolica:  
+1º l’Ordinario ai propri sudditi;  
+2º l’Ordinario del luogo anche a coloro che si trovano nel suo territorio o vi hanno commesso il delitto;  
+3º qualunque Vescovo tuttavia nell’atto della confessione sacramentale.
+
+**Can. 1356 -** § 1. Possono rimettere la pena *ferendae sententiae* o *latae sententiae* stabilita da un precetto che non sia stato dato dalla Sede Apostolica:  
+1º l’autore del precetto;  
+2º l’Ordinario che ha promosso il giudizio per infliggere o dichiarare la pena o che l’ha inflitta o dichiarata per decreto personalmente o tramite altri;  
+3º l’Ordinario del luogo in cui si trova il delinquente.
+
+§ 2. Prima che avvenga la remissione, deve essere consultato l’autore del precetto, a meno che per circostanze straordinarie ciò non sia possibile, o chi ha inflitto o dichiarato la pena.
+
+**Can. 1357 -** § 1. Ferme restando le disposizioni dei cann. 508 e 976, il confessore può rimettere in foro interno sacramentale la censura *latae sententiae* di scomunica o d’interdetto, non dichiarata, se al penitente sia gravoso rimanere in stato di peccato grave per il tempo necessario a che il Superiore competente provveda.
+
+§ 2. Il confessore nel concedere la remissione imponga al penitente l’onere di ricorrere entro un mese sotto pena di ricadere nella censura al Superiore competente o a un sacerdote provvisto della facoltà, e di attenersi alle sue decisioni; intanto imponga una congrua penitenza e la riparazione, nella misura in cui ci sia urgenza, dello scandalo e del danno. Il ricorso poi può essere fatto anche tramite il confessore, senza fare menzione del nominativo del penitente.
+
+§ 3. Allo stesso onere di ricorrere sono tenuti, venuto meno il pericolo, coloro che a norma del can. 976 furono assolti da una censura inflitta o dichiarata o riservata alla Sede Apostolica.
+
+**Can. 1358 -** § 1. Non si può rimettere la censura se non al delinquente che abbia receduto dalla contumacia, a norma del can. 1347, §2; a chi abbia receduto poi non si può negare la remissione, salvo il disposto del can. 1361, § 4.
+
+§ 2. Chi rimette la censura può provvedere a norma del can. 1348 o anche imporre una penitenza.
+
+**Can. 1359 -** Se qualcuno è vincolato da più di una pena, la remissione vale soltanto per le pene in essa espresse; la remissione generale poi toglie tutte le pene, ad eccezione di quelle che il delinquente nella domanda abbia taciuto in mala fede.
+
+**Can. 1360 -** La remissione della pena estorta per mezzo della forza o di timore grave o per dolo è invalida per lo stesso diritto.
+
+**Can. 1361 -** § 1. La remissione può anche essere data ad una persona assente, oppure sotto condizione.
+
+§ 2. La remissione in foro esterno sia data per scritto, a meno che una grave causa suggerisca altrimenti.
+
+§ 3. La domanda di remissione o la remissione stessa non sia divulgata, se non nella misura in cui ciò sia utile a tutelare la fama del reo o sia necessario per riparare lo scandalo.
+
+§ 4. Non si deve dare la remissione finché, secondo il prudente giudizio dell’Ordinario, il reo non abbia riparato il danno eventualmente causato; costui può essere sollecitato a tale riparazione o alla restituzione, con una delle pene di cui al can. 1336, §§ 2-4, e ciò vale anche quando gli viene rimessa la censura a norma del can. 1358, § 1.
+
+**Can. 1362 -** § 1. L’azione criminale si estingue per prescrizione in tre anni, a meno che non si tratti:  
+1° di delitti riservati alla Congregazione per la Dottrina della Fede, che sono soggetti a norme speciali;  
+2° fermo restando il disposto del n. 1, dell’azione per i delitti di cui nei cann. 1376, 1377, 1378, 1393, § 1, 1394, 1395, 1397, 1398, § 2, che si prescrive in sette anni, o di quella per i delitti di cui al can. 1398, § 1, che si prescrive in vent’anni;  
+3° di delitti non puniti dal diritto universale, se la legge particolare abbia stabilito un altro limite di tempo per la prescrizione.
+
+§ 2. La prescrizione, salvo che la legge stabilisca altro, decorre dal giorno in cui fu commesso il delitto, oppure, se il delitto è permanente o abituale, dal giorno in cui è cessato.
+
+§ 3. Citato il reo a norma del can. 1723 oppure informato nel modo previsto dal can. 1507, § 3, della presentazione, a norma del can. 1721, § 1, del libello di accusa, si sospende la prescrizione dell’azione criminale per tre anni; trascorso questo termine o interrotta la sospensione, a causa della cessazione del processo penale, nuovamente decorre il tempo, che si aggiunge a quello già decorso per la prescrizione. La stessa sospensione ugualmente sussiste se, osservato il can. 1720, n. 1, si procede alla pena da infliggere o dichiarare per decreto extragiudiziale.
+
+**Can. 1363 -** § 1. Se nei limiti di tempo di cui nel can. 1362, da computarsi a partire dal giorno in cui la sentenza di condanna è passata in giudicato, al reo non sia stato notificato il decreto esecutivo del giudice di cui nel can. 1651, l’azione intesa a far eseguire la pena si estingue per prescrizione.
+
+§ 2. Il che vale, osservate le disposizioni del diritto, se la pena è stata inflitta per decreto extragiudiziale.

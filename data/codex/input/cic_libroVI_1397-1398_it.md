@@ -1,0 +1,33 @@
+---
+original_path: ita/documents/cic_libroVI_1397-1398_it.html
+---
+
+# CODICE DI DIRITTO CANONICO
+
+## LIBRO VI
+
+### LE SANZIONI PENALI NELLA CHIESA
+
+#### PARTE II
+
+##### I SINGOLI DELITTI E LE PENE COSTITUITE PER ESSI
+
+### TITOLO VI
+
+**DELITTI CONTRO LA VITA, LA DIGNITÀ E LA LIBERTÀ DELL'UOMO**  
+*(Cann. 1397 – 1398)*
+
+**Can. 1397 -**  
+§ 1. Chi commette omicidio, rapisce oppure detiene con la violenza o la frode una persona, o la mutila o la ferisce gravemente, sia punito a seconda della gravità del delitto con le pene di cui nel can. 1336, §§ 2-4; l’omicidio poi contro le persone di cui nel can. 1370, è punito con le pene ivi e nel § 3 di questo canone.
+
+§ 2. Chi procura l’aborto ottenendo l’effetto incorre nella scomunica *latae sententiae*.
+
+§ 3. Se si tratta dei delitti di cui in questo canone, nei casi più gravi il chierico reo sia dimesso dallo stato clericale.
+
+**Can. 1398 -**  
+§ 1. Sia punito con la privazione dell’ufficio e con altre giuste pene, non esclusa, se il caso lo comporti, la dimissione dallo stato clericale, il chierico:
+1. che commette un delitto contro il sesto comandamento del Decalogo con un minore o con persona che abitualmente ha un uso imperfetto della ragione o con quella alla quale il diritto riconosce pari tutela;
+2. che recluta o induce un minore, o una persona che abitualmente ha un uso imperfetto della ragione o una alla quale il diritto riconosce pari tutela, a mostrarsi pornograficamente o a partecipare ad esibizioni pornografiche reali o simulate;
+3. che immoralmente acquista, conserva, esibisce o divulga, in qualsiasi modo e con qualunque strumento, immagini pornografiche di minori o di persone che abitualmente hanno un uso imperfetto della ragione.
+
+§ 2. Il membro di un istituto di vita consacrata o di una società di vita apostolica, e qualunque fedele che gode di una dignità o compie un ufficio o una funzione nella Chiesa, se commette il delitto di cui al § 1, o al can. 1395, § 3, sia punito a norma del can. 1336, §§ 2-4, con l’aggiunta di altre pene a seconda della gravità del delitto.

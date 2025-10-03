@@ -1,0 +1,60 @@
+---
+original_path: ita/documents/cic_libroVI_1336-1338_it.html
+---
+
+# CODICE DI DIRITTO CANONICO
+
+## LIBRO VI
+
+### LE SANZIONI PENALI NELLA CHIESA
+
+#### PARTE I
+
+##### DELITTI E PENE IN GENERE
+
+## TITOLO IV
+
+**LE PENE E LE ALTRE PUNIZIONI**  
+*(Cann. 1331 – 1340)*
+
+### CAPITOLO II *(Cann. 1336-1338)*
+
+*LE PENE ESPIATORIE*
+
+**Can. 1336** - § 1. Le pene espiatorie, che possono essere applicate a un delinquente in perpetuo oppure per un tempo prestabilito o indeterminato, oltre alle altre che la legge può eventualmente aver stabilito, sono quelle elencate nei §§ 2-5.
+
+§ 2: Ingiunzione:  
+1° di dimorare in un determinato luogo o territorio;  
+2° di pagare una ammenda o una somma di denaro per le finalità della Chiesa, secondo i regolamenti definiti dalla Conferenza Episcopale.
+
+§ 3: Proibizione:  
+1° di dimorare in un determinato luogo o territorio;  
+2° di esercitare, dappertutto o in un determinato luogo o territorio o al di fuori di essi, tutti o alcuni uffici, incarichi, ministeri o funzioni o solo alcuni compiti inerenti agli uffici o agli incarichi;  
+3° di porre tutti o alcuni atti di potestà di ordine;  
+4° di porre tutti o alcuni atti di potestà di governo;  
+5° di esercitare qualche diritto o privilegio o di usare insegne o titoli;  
+6° di godere di voce attiva o passiva nelle elezioni canoniche e di partecipare con diritto di voto nei consigli e nei collegi ecclesiastici;  
+7° di portare l’abito ecclesiastico o religioso.
+
+§ 4: Privazione:  
+1º di tutti o alcuni uffici, incarichi, ministeri o funzioni o solamente di alcuni compiti inerenti agli uffici o incarichi;  
+2º della facoltà di ricevere le confessioni o della facoltà di predicare;  
+3º della potestà delegata di governo;  
+4º di alcuni diritti o privilegi o insegne o titoli;  
+5º di tutta la remunerazione ecclesiastica o di parte di essa, secondo i regolamenti stabiliti dalla Conferenza Episcopale, salvo il disposto del can. 1350, § 1.
+
+§ 5. La dimissione dallo stato clericale.
+
+**Can. 1337** - § 1. La proibizione di dimorare in un determinato luogo o territorio può essere applicata sia ai chierici sia ai religiosi; l’ingiunzione di dimorarvi può essere applicata ai chierici secolari e, nei limiti delle costituzioni, ai religiosi.
+
+§ 2. Per infliggere l’ingiunzione di dimorare in un determinato luogo o territorio, è necessario che vi sia il consenso dell’Ordinario di quel luogo, salvo non si tratti di una casa destinata alla penitenza ed alla correzione dei chierici anche extradiocesani.
+
+**Can. 1338** - § 1. Le pene espiatorie, recensite nel can. 1336, non si applicano mai a potestà, uffici, incarichi, diritti, privilegi, facoltà, grazie, titoli, insegne che non siano sotto la potestà del superiore che costituisce la pena.
+
+§ 2. Non si può privare alcuno della potestà di ordine, ma soltanto proibire di esercitarla o di esercitarne alcuni atti; parimenti non si può privare dei gradi accademici.
+
+§ 3. Per le proibizioni indicate nel can. 1336, § 3, si deve osservare la norma data per le censure al can. 1335, § 2.
+
+§ 4. Soltanto le pene espiatorie recensite come proibizioni nel can. 1336, § 3, possono essere pene *latae sententiae* o altre che eventualmente siano stabilite con legge o precetto.
+
+§ 5. Le proibizioni di cui al can. 1336, § 3, non sono mai sotto pena di nullità.

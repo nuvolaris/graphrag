@@ -1,0 +1,104 @@
+---
+original_path: ita/documents/cic_libroVI_1392-1396_it.html
+---
+
++:----------------------------------------------------------------------+
+| **[CODICE DI DIRITTO CANONICO](../../cic_index_it.html)**             |
+|                                                                       |
+| LIBRO VI                                                              |
+|                                                                       |
+| **LE SANZIONI PENALI NELLA CHIESA**                                   |
+|                                                                       |
+|                                                                       |
+|                                                                       |
+| PARTE II                                                              |
+|                                                                       |
+| I SINGOLI DELITTI E LE PENE COSTITUITE PER ESSI                       |
+|                                                                       |
+|                                                                       |
+|                                                                       |
+| [TITOLO V]{#TITOLO_V}                                                 |
+|                                                                       |
+| **DELITTI CONTRO OBBLIGHI SPECIALI**                                  |
+|                                                                       |
+| **(Cann. 1392 -- 1396)**                                              |
+|                                                                       |
+|                                                                       |
+|                                                                       |
+| +------------------------------------------------------------------+  |
+| |             **Can. 1392 -** Il chierico che abbandona            |  |
+| | volontariamente e illegittimamente il sacro ministero, per sei   |  |
+| | mesi continui, con l'intenzione di sottrarsi alla competente     |  |
+| | autorità della Chiesa, sia punito, proporzionalmente alla        |  |
+| | gravità del delitto, con la sospensione o anche con le pene      |  |
+| | stabilite dal can. 1336, §§ 2-4, e nei casi più gravi può essere |  |
+| | dimesso dallo stato clericale.                                   |  |
+| |                                                                  |  |
+| |                                                                  |  |
+| +------------------------------------------------------------------+  |
+| |             **Can. 1393 -** § 1. Il chierico o il religioso che  |  |
+| | contro le disposizioni dei canoni eserciti l'attività            |  |
+| | affaristica o commerciale, sia punito a seconda della gravità    |  |
+| | del delitto con le pene di cui nel can. 1336, §§ 2-4.            |  |
+| |                                                                  |  |
+| |                                                                  |  |
+| +------------------------------------------------------------------+  |
+| |             § 2. Il chierico o il religioso che, oltre ai casi   |  |
+| | già previsti dal diritto, commette un delitto in materia         |  |
+| | economica, o viola gravemente le prescrizioni contenute nel can. |  |
+| | 285, § 4, sia punito con le pene di cui al can. 1336, §§ 2-4,    |  |
+| | fermo restando l'obbligo di riparare il danno.                   |  |
+| |                                                                  |  |
+| |                                                                  |  |
+| +------------------------------------------------------------------+  |
+| |             **Can. 1394 -** § 1. Il chierico che attenta al      |  |
+| | matrimonio anche solo civilmente, incorre nella sospensione      |  |
+| | *latae sententiae*, fermo restando il disposto dei cann. 194, §  |  |
+| | 1, n. 3 e 694, § 1, n. 2; che se ammonito non si ravveda         |  |
+| | o continui a dare scandalo, deve essere gradualmente punito con  |  |
+| | privazioni, fino alla dimissione dallo stato clericale.          |  |
+| |                                                                  |  |
+| |                                                                  |  |
+| +------------------------------------------------------------------+  |
+| |             § 2. Il religioso di voti perpetui, non chierico, il |  |
+| | quale attenti il matrimonio anche solo civilmente, incorre       |  |
+| | nell'interdetto *latae sententiae*, fermo restando il disposto   |  |
+| | del can. 694 § 1, n. 2.                                          |  |
+| |                                                                  |  |
+| |                                                                  |  |
+| +------------------------------------------------------------------+  |
+| |             **Can. 1395 -** § 1. Il chierico concubinario, oltre |  |
+| | il caso di cui nel can. 1394, e il chierico che permanga         |  |
+| | scandalosamente in un altro peccato esterno contro il sesto      |  |
+| | precetto del Decalogo, siano puniti con la sospensione, alla     |  |
+| | quale si possono aggiungere gradualmente altre pene, se persista |  |
+| | il delitto dopo l'ammonizione, fino alla dimissione dallo stato  |  |
+| | clericale.                                                       |  |
+| |                                                                  |  |
+| |                                                                  |  |
+| +------------------------------------------------------------------+  |
+| |             § 2. Il chierico che abbia commesso altri delitti    |  |
+| | contro il sesto precetto del Decalogo, se invero il delitto sia  |  |
+| | stato compiuto pubblicamente, sia punito con giuste pene, non    |  |
+| | esclusa la dimissione dallo stato clericale, se il caso lo       |  |
+| | comporti.                                                        |  |
+| |                                                                  |  |
+| |                                                                  |  |
+| +------------------------------------------------------------------+  |
+| |             § 3. Con la stessa pena di cui al § 2, sia punito il |  |
+| | chierico che con violenza, con minacce o con abuso di autorità   |  |
+| | commette un delitto contro il sesto comandamento del Decalogo o  |  |
+| | costringe qualcuno a realizzare o a subire atti sessuali.        |  |
+| |                                                                  |  |
+| |                                                                  |  |
+| +------------------------------------------------------------------+  |
+| |             **Can. 1396 -** Chi viola gravemente l'obbligo della |  |
+| | residenza cui è tenuto in ragione dell'ufficio ecclesiastico,    |  |
+| | sia punito con giusta pena non esclusa, dopo esser stato         |  |
+| | ammonito, la privazione dell'ufficio.                            |  |
+| |                                                                  |  |
+| |                                                                  |  |
+| +------------------------------------------------------------------+  |
+|                                                                       |
+|                                                                       |
++-----------------------------------------------------------------------+
